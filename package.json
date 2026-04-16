@@ -1,0 +1,7 @@
+{
+  "name": "tadeas-chaos",
+  "private": true,
+  "scripts": {
+    "start": "npx serve -s . -l $PORT"
+  }
+}
